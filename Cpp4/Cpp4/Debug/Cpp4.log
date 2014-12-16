@@ -1,0 +1,20 @@
+﻿生成启动时间为 2014/12/14 星期日 16:06:10。
+     1>项目“P:\workspace\c\Cpp4\Cpp4\Cpp4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Cpp4.cpp
+         Cpp4.cpp
+     1>p:\workspace\c\cpp4\cpp4\cpp4.cpp(24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>p:\workspace\c\cpp4\cpp4\cpp4.cpp(28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>p:\workspace\c\cpp4\cpp4\cpp4.cpp(32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>p:\workspace\c\cpp4\cpp4\cpp4.cpp(36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>p:\workspace\c\cpp4\cpp4\cpp4.cpp(40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"P:\workspace\c\Cpp4\Debug\Cpp4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"P:\workspace\c\Cpp4\Debug\Cpp4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"P:\workspace\c\Cpp4\Debug\Cpp4.lib" /MACHINE:X86 Debug\Cpp4.obj
+         Debug\loan.obj
+         Debug\stdafx.obj
+         Cpp4.vcxproj -> P:\workspace\c\Cpp4\Debug\Cpp4.exe
+     1>已完成生成项目“P:\workspace\c\Cpp4\Cpp4\Cpp4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.80
